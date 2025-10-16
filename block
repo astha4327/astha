@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>3 Blocks</title>
+  <style>
+    .container {
+      display: flex;
+    }
+
+    .block {
+      flex: 1;
+      padding: 20px;
+      text-align: center;
+      color: white;
+    }
+
+    .block1 { background: red; }
+    .block2 { background: green; }
+    .block3 { background: blue; }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="block block1">Block 1</div>
+    <div class="block block2">Block 2</div>
+    <div class="block block3">Block 3</div>
+  </div>
+
+</body>
+</html>
