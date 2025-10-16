@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>to do list</title>
+</head>
+<body style="background-color: lightblue;">
+<h1>My To Do List</h1>
+<ul>
+<li><strong>STUDY</strong>:Family Law and BNS</li>
+<li><strong>MAKE PPT</strong>:BNS</li>
+<li><strong>MAKE ASSIGNMENT</strong>:Contract</li>
+<li><strong>VISIT LIBRARY</strong>:Renew Book</li>
+<li><strong>ATTEND MEETING</strong>:Legal Aid</li>
+</ul>
+<br>
+<ol>
+<li><strong>PLAY</strong>:Badminton</li>
+<li><strong>CLEANING</strong>:Room</li>
+<li><strong>ARRANGEMENT</strong>:Clothes in Almirah</li>
+<li><strong>LAUNDRY</strong>:Dirty Clothes</li>
+<li><strong>SNACK</strong>:Anything</li>
+</ol>
+</body>
+</html>
