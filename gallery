@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>my gallery</title>
+</head>
+<body style="background-color: lightblue;">
+<h1> Flower Gallery</h1>
+<img src="rose.jpg" alt="flower" width="200" height="100">
+<img src="sunflower.jpg" alt="flower" width="200" height="100">
+<img src="lily.jpg" alt="flower" width="200" height="100">
+<img src="daisy.jpg" alt="flower" width="200" height="100">
+<img src="marigold.jpg" alt="flower" width="200" height="100">
+</body>
+</html>
