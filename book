@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>My Favorite Books</title>
+</head>
+<body>
+    <header>
+        <h1>My Favorite Books</h1>
+        <p>Discover the books that have inspired me the most.</p>
+    </header>
+
+    <main class="book-list">
+        <article class="book">
+            <img src="CONSTITUTION OF INDIA.jpg" alt="CONSTITUTION OF INDIA" width="200" height="200">
+            <h2>CONSTITUTION OF INDIA</h2>
+            <p>by V.N. Shukla</p>
+            <p>The most authoritative and respected academic book on the Constitution of India. Its authoritative exposition of the law has established it at the foremost rank of classical legal textbooks.</p>
+        </article>
+
+        <article class="book">
+            <img src="RATAN.jpg" alt="THE BHARTIYA NAYAYA SANHITA" width="200" height="200">
+            <h2>THE BHARTIYA NAYAYA SANHITA</h2>
+            <p>by Ratanlal and Dhirajla</p>
+            <p>Provides commentary on the new provisions of The Bharatiya Nyaya Sanhita, 2023 as well as those retained from the erstwhile Indian Penal Code, 1860</p>
+        </article>
+
+
+        </article>
+    </main>
+
+    <footer>
+        <p>Created with  by astha singh</p>
+    </footer>
+</body>
+</html>
