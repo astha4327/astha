@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Different Borders</title>
+  <style>
+    .box {
+      width: 200px;
+      padding: 20px;
+      margin: 20px;
+      text-align: center;
+    }
+
+    .solid {
+      border: 3px solid #4CAF50;
+    }
+
+    .dashed {
+      border: 3px dashed #2196F3;
+    }
+
+    .dotted {
+      border: 3px dotted #f44336;
+    }
+
+    .double {
+      border: 5px double #9C27B0;
+    }
+
+    .groove {
+      border: 5px groove #FF9800;
+    }
+
+    .ridge {
+      border: 5px ridge #795548;
+    }
+
+    .inset {
+      border: 5px inset #009688;
+    }
+
+    .outset {
+      border: 5px outset #3F51B5;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box solid">Solid Border</div>
+  <div class="box dashed">Dashed Border</div>
+  <div class="box dotted">Dotted Border</div>
+  <div class="box double">Double Border</div>
+  <div class="box groove">Groove Border</div>
+  <div class="box ridge">Ridge Border</div>
+  <div class="box inset">Inset Border</div>
+  <div class="box outset">Outset Border</div>
+
+</body>
+</html>
